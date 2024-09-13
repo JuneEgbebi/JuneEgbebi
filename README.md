@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Adebayo Egbebi
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **Data Analytics, Machine Learning, and Advanced Excel Functions.**
+- 🌱 I’m currently pushing boundaries in the area of **Data Analytics, Machine Learning, and Advanced Excel Functions.**
 - 🔍 I'm interested in exploring **data visualization, predictive modeling, and business intelligence tools.**
 - 🎯 My goal is to make data-driven decisions that drive business growth and improve operational efficiency.
 - 💬 Ask me about **Python, Excel, Power BI, SQL, and Data Analysis.**
