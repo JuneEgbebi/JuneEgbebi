@@ -15,7 +15,7 @@
 
 ## 📊 My Portfolio Projects
 - **Taxi Fare Prediction Model:** [Repository Link](https://github.com/juneegbebi/taxi-fare-prediction)
-- **Customer Segmentation Analysis:** [Repository Link](https://github.com/juneegbebi/mall-cust-seg)
+- **Customer Segmentation Analysis:** [Repository Link](https://github.com/juneegbebi/mall_cust_segment)
 
 ## 🏆 Accomplishments
 - 🌟 4 years of experience as a data analyst in the healthcare industry.
