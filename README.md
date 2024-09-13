@@ -30,5 +30,4 @@
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/june-baba-dev)
-- [Twitter](https://twitter.com/yourusername)
 - [Email](mailto:juneegbebi@gmail.com)
